@@ -1,6 +1,6 @@
-# 100-days-100-codes-Cybersecurity 
+# 48-days-48-codes-Cybersecurity 
 
-Welcome to the "100 Days, 100 Codes Cybersecurity" repository! This repository is dedicated to an ambitious project where I will be posting one code snippet every day for the next 100 days. Each code will focus on various aspects of cybersecurity, ranging from basic concepts to advanced techniques.
+Welcome to the "48 Days, 48 Codes Cybersecurity" repository! This repository is dedicated to an ambitious project where I will be posting one code snippet every day for the next 48 days. Each code will focus on various aspects of cybersecurity, ranging from basic concepts to advanced techniques.
 
 About the Challenge:
 Cybersecurity is a critical field in today's digital age, and the aim of this challenge is to enhance knowledge and skills in this area through practical coding exercises. Whether you are a beginner looking to learn the fundamentals or an experienced professional seeking to deepen your expertise, this repository offers something valuable for everyone.
@@ -26,7 +26,7 @@ How to Use This Repository:
 3. Stay Engaged: Follow the repository to stay updated with the latest additions.
 
 Goals and Vision:
-The primary goal of this challenge is to promote continuous learning and to build a strong foundation in cybersecurity through hands-on coding. By the end of the 100 days, not only will there be a comprehensive collection of cybersecurity codes, but also a robust learning resource that can benefit the wider community.
+The primary goal of this challenge is to promote continuous learning and to build a strong foundation in cybersecurity through hands-on coding. By the end of the 48 days, not only will there be a comprehensive collection of cybersecurity codes, but also a robust learning resource that can benefit the wider community.
 
 Happy Coding!
 
